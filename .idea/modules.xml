@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Apple.iml" filepath="$PROJECT_DIR$/.idea/modules/Apple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Apple-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Apple-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddDisplayApple.iml" filepath="$PROJECT_DIR$/.idea/modules/AddDisplayApple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AddDisplayApple-build.iml" filepath="$PROJECT_DIR$/.idea/modules/AddDisplayApple-build.iml" />
     </modules>
   </component>
 </project>

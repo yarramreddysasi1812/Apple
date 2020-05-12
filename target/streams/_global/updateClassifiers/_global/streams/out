@@ -1,5 +1,4 @@
-[warn] jackson-databind-2.6.5-sources.jar no longer exists at C:\Users\zdtp0020\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\fasterxml\jackson\core\jackson-databind\2.6.5\jackson-databind-2.6.5-sources.jar
-[debug] "not up to date. inChanged = false, force = false
+[debug] "not up to date. inChanged = true, force = false
 [debug] Updating ProjectRef(uri("file:/D:/WorkSpace/IdeaProjects/Apple/"), "apple")...
 [debug] Done updating ProjectRef(uri("file:/D:/WorkSpace/IdeaProjects/Apple/"), "apple")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

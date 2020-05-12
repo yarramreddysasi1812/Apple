@@ -1,4 +1,4 @@
-name := "Apple"
+name := "AddDisplayApple"
 
 version := "0.1"
 
