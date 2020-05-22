@@ -1,5 +1,5 @@
-# Apple
-Spark Windowing Functions
+# Apple Interview Question
+This application is to explore Spark Windowing Functions
 ####QUESTION####
 
 LOG DATA-->
