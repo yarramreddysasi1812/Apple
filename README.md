@@ -20,3 +20,4 @@ Duration:  15 Mins
 
 The Smallest Window in which all the mentioned ads are displayed at least once
 
+Please reach out to me on yarramreddysasi1812@gmail.com  if any support required
